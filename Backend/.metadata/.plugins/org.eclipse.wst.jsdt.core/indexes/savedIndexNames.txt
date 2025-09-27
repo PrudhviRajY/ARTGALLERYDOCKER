@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\FSDP\ArtGallery\Backend\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3241609088.index
+916427473.index
+3656717994.index
+3735824400.index
+2347661424.index
